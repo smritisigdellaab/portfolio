@@ -177,7 +177,7 @@ function App() {
             </a>
             <div className="socials">
               <a href="https://github.com/smritisigdellaab" target="_blank" rel="noreferrer"><Github size={18}/> GitHub</a>
-              <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><Linkedin size={18}/> LinkedIn</a>
+              <a href="https://www.linkedin.com/in/smriti-sigdel-195529421?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer"><Linkedin size={18}/> LinkedIn</a>
             </div>
           </div>
         </section>
